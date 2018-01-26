@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "JWT-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"jwt"
+	],
+	"name" : "JSONWebTokenTest",
+	"type" : "normal"
+}

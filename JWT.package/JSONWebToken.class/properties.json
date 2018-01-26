@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JoeJohnston 1/25/2018 12:53",
+	"super" : "Object",
+	"category" : "JWT",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"headers",
+		"claims"
+	],
+	"name" : "JSONWebToken",
+	"type" : "normal"
+}

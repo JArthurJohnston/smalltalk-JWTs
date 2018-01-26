@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "JWT-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"generator",
+		"jwt"
+	],
+	"name" : "JWTGeneratorTest",
+	"type" : "normal"
+}

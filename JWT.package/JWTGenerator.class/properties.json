@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JoeJohnston 1/26/2018 07:19",
+	"super" : "Object",
+	"category" : "JWT",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"jwt"
+	],
+	"name" : "JWTGenerator",
+	"type" : "normal"
+}
