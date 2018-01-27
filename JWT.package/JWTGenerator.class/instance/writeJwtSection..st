@@ -1,4 +1,4 @@
-setter
+adding
 writeJwtSection: aCollectionOfClaimAssociations
 
 	^ String

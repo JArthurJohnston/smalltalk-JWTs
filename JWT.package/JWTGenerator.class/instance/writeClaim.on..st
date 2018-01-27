@@ -1,4 +1,4 @@
-setter
+adding
 writeClaim: anAssociation on: aStream
 	aStream nextPut: $";
 		nextPutAll: anAssociation key;

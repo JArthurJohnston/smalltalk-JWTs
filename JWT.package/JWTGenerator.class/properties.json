@@ -6,7 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"jwt"
+		"jwt",
+		"hashFunctions",
+		"base64UrlEncoder"
 	],
 	"name" : "JWTGenerator",
 	"type" : "normal"
