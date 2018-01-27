@@ -1,15 +1,14 @@
 {
-	"commentStamp" : "JoeJohnston 1/26/2018 23:30",
+	"commentStamp" : "JoeJohnston 1/26/2018 23:44",
 	"super" : "Object",
 	"category" : "JWT-Generators",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"jwt",
-		"hashFunctions",
+		"hashFunction",
 		"base64UrlEncoder"
 	],
-	"name" : "JWTGenerator",
+	"name" : "JWTSignatureGenerator",
 	"type" : "normal"
 }

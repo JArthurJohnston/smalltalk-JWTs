@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JoeJohnston 1/26/2018 23:32",
+	"super" : "Object",
+	"category" : "JWT",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JWTParser",
+	"type" : "normal"
+}

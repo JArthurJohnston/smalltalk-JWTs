@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "JoeJohnston 1/26/2018 12:58",
+	"commentStamp" : "JoeJohnston 1/26/2018 23:47",
 	"super" : "NotFound",
 	"category" : "JWT-Errors",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "HashNotFound",
+	"name" : "HashNotValid",
 	"type" : "normal"
 }

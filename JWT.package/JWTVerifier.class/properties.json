@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "JoeJohnston 1/26/2018 22:25",
+	"commentStamp" : "JoeJohnston 1/26/2018 23:42",
 	"super" : "Object",
 	"category" : "JWT",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "NoneHash",
+	"name" : "JWTVerifier",
 	"type" : "normal"
 }
