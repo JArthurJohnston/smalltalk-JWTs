@@ -1,3 +1,0 @@
-tests
-testInitialize
-	self fail.

@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "JoeJohnston 1/26/2018 23:32",
+	"commentStamp" : "JoeJohnston 1/28/2018 12:16",
 	"super" : "Object",
 	"category" : "JWT",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"encoder",
+		"hashingAlgorithm"
+	],
 	"name" : "JWTParser",
 	"type" : "normal"
 }

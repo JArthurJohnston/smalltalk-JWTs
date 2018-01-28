@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "JoeJohnston 1/26/2018 23:30",
 	"super" : "Object",
-	"category" : "JWT-Model",
+	"category" : "JWT",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

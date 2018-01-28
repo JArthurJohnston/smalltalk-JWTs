@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JoeJohnston 1/27/2018 23:37",
+	"super" : "TestCase",
+	"category" : "JWT-IntegrationTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JWTIntegrationTest",
+	"type" : "normal"
+}
