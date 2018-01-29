@@ -1,3 +1,0 @@
-getter
-hashFunction
-	^ hashFunction

@@ -9,3 +9,5 @@ testCreateAndVerifyJWT
 	parsedJWT := JSONWebToken fromString: encodedJwtString.
 	self assert: parsedJWT headers equals: jwt headers.
 	self assert: parsedJWT claims equals: jwt claims.
+
+	self assert: (JWTVerifier check: encodedJwtString with: key).
