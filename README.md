@@ -14,7 +14,7 @@
 	token := JSONWebToken new.
 ```
 
-2.	JWTs are no good unless you can load them up with information. The main way to accomplish this is through claims. Adding claims to a jwt are really easy.
+2.	JWTs are no good unless you can load them up with information. The main way to accomplish this is through claims. Adding claims to a jwt is really easy:
 
 ```
 	token 
